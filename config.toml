@@ -1,0 +1,6 @@
+[database]
+MONGODB_URL = "mongodb+srv://manihritik886:iVXlxD0xYyt8wAYc@cluster0.fncitgg.mongodb.net/?authMechanism=SCRAM-SHA-1"
+
+
+[Token]
+SECRET_KEY = "123456789jhgvcd567ujhn"
